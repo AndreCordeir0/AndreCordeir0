@@ -1,4 +1,3 @@
-# :wave: :earth_americas:
 
 <div align="center">
   <a href="https://github.com/AndreCordeir0">
