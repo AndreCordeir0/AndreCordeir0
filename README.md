@@ -1,10 +1,5 @@
 
-<div align="center">
-  <a href="https://github.com/AndreCordeir0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreCordeir0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=05aff2"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCordeir0&layout=compact&langs_count=7&theme=tokyonight&title_color=ffffff&text_color=ffffff"/>
-</div>
-  
+
 ## Tecnologias
 <div>
   <img alt="And-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
