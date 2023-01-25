@@ -3,7 +3,7 @@
   <a href="https://github.com/AndreCordeir0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCordeir0&layout=compact&langs_count=7&theme=tokyonight&title_color=ffffff&text_color=ffffff"/>
 </div>
-  
+  <div>
 ## Tecnologias
 <div>
   <img alt="And-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -18,4 +18,30 @@
   <img alt="And-MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><br>
   <img alt="And-VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img alt="And-GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</div>
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
+
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
+            }
+            </style>
+            <h1>HELLO WORLD!</h1>
+        </div>
+    </foreignObject>
+</svg>
+    
+    <div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
 </div>
